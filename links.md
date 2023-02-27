@@ -26,4 +26,21 @@ Knowing encryption as a beginner, what is encryption, why is it important, what 
 3. [Linux Encryption](https://linuxsecurity.com/features/how-to-encrypt-files-on-linux#:~:text=Our%20Top%20Linux%20File%20Encryption%20Methods%201%20Archive,...%206%207-zip%20...%207%20Tails%20OS%20)<br>
 Encryption in linux. We already use GNU and RSA, here they explain it. Contains encryption methods on linux
 <br>
+
+W03
+<br>
+W04
+<br>
+W05
+<br>
+W06
+<br>
+W07
+<br>
+W08
+<br>
+W09
+<br>
+W10
+<br>
 <hr>
