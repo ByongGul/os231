@@ -40,6 +40,16 @@ If the link above discusses if-else, we should also know and understand about fo
 
 <br>
 W04
+
+1. [TLPI](https://man7.org/tlpi/)<br>
+The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. Here the author website and course
+
+2. [Linux Memory Mapping](https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html#:~:text=Memory%20mapping%201%20Overview%20In%20the%20Linux%20kernel,...%204%20Further%20reading%20...%205%20Exercises%20)<br>
+After reading this, maybe you will understand what memory mapping is on Linux. Here it is well explained and examples are given as well.
+
+3. [What is Kernel](https://www.ionos.com/digitalguide/server/know-how/what-is-a-kernel/)<br>
+You will know who is serves as the core of an operating system and the interface between software and hardware. Yup, the kernel is in constant use and is a key component of an operating system.
+
 <br>
 W05
 <br>
