@@ -28,6 +28,16 @@ Encryption in linux. We already use GNU and RSA, here they explain it. Contains 
 <br>
 
 W03
+
+1. [Shell Scripting Basic](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)<br>
+This web really explains about the basics of shell scripting. Starting from the definition and simple commands that you really need to know, which are equipped with easy-to-understand explanations
+
+2. [Shell If-Else](https://www.digitalocean.com/community/tutorials/if-else-in-shell-scripts)<br>
+We all know if-else, but maybe some don't know how if-else is in shell scripting. Here we can get it. I saw in last semester's questions that there was this, so it seems important.
+
+3. [Shell Loops](https://www.shellscript.sh/loops.html)<br>
+If the link above discusses if-else, we should also know and understand about for and while iteration in shell scripts. This link provides it.
+
 <br>
 W04
 <br>
