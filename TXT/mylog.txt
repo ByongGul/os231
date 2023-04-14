@@ -52,3 +52,10 @@ ZCZC W06 45 L03 GitHub related
 ZCZC W06 15 L04 GitHub Pages related
 ZCZC W06 20 L05 QUIZ
 ZCZC W06 80 L09 Weekly Assignments
+ZCZC W07 90 L00 General, etc.
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 45 L02 ZOOM meetings related
+ZCZC W07 30 L03 GitHub related
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 60 L05 QUIZ
+ZCZC W07 90 L09 Weekly Assignments
