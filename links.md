@@ -90,6 +90,16 @@ Multi-threaded programming has always been of interest to developers to increase
 <br>
 
 W08
+
+1. [Fork System in Linux](https://bytexd.com/fork-system-call-in-linux/#:~:text=Fork%20%28%29%20is%20a%20system%20call%2C%20used%20in,system%20call%20is%20known%20as%20the%20child%20process.)<br>
+In this article, you will find a brief description of the fork system call and how it works. This article requires that you have some background knowledge of the concept of process in any operating system.
+
+2. [Ways to Find Total Shared Memory](https://www.systranbox.com/3-ways-to-find-the-total-memory-on-a-linux-server/#:~:text=There%20are%20a%20few%20ways%20to%20check%20shared,the%20amount%20of%20shared%20memory%20on%20the%20system.)<br>
+There are many ways to find the total memory on a Linux server. One way is to use the free command. This command will show you the total amount of free and used physical and swap memory on the system, as well as the buffers and caches used by the kernel.
+
+3. [What is Shared Memory in Linux](https://oswikipost.com/what-is-shared-memory-in-linux/)<br>
+A shared memory is an extra piece of memory that is attached to some address spaces for their owners to use. … Shared memory is os wiki a feature supported by UNIX System V, including Linux, SunOS and Solaris. One process must explicitly ask for an area, using a key, to be shared by other processes.
+
 <br>
 W09
 <br>

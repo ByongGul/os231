@@ -9,5 +9,7 @@ ZCZC W05 Nabilcodes
 ZCZC W05 nois44
 ZCZC W06 anthonymrtn
 ZCZC W06 alifismady
-ZCZC W07 anthonymrtn
+ZCZC W07 adamGhavi
 ZCZC W07 adlyrndi
+ZCZC W08 arnindyazhavira
+ZCZC W08 eugeniusms
